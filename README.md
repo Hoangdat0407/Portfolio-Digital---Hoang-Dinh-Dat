@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This project showcases my skills, acad
 ## 👨‍🎓 About Me
 * **Full Name:** Hoang Dinh Dat (Hoàng Đình Đạt)
 * **Major:** Computer Science (Khoa học Máy tính)
-* **Institution:** VNU University of Engineering and Technology (UET) - Đại học Công nghệ, ĐHQGHN.
+* **Institution:** VNU University of Engineering and Technology (UET) - Trường Đại học Công nghệ, ĐHQGHN.
 * **Core Interest:** Software Engineering, Web Development, and Artificial Intelligence.
 
 ---
